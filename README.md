@@ -97,8 +97,8 @@ The website uses a modern color scheme that can be easily modified in the CSS:
 
 ## 📝 Contact Information
 
-- **Phone**: 0707115499 / 0797835897
-- **Email**: vincemaine97@gmail.com
+- **Phone**: 0707115498 / 0797835897
+- **Email**: vincemaina97@gmail.com
 - **Tagline**: "Your reliable Tech guys"
 
 ## 📄 License
